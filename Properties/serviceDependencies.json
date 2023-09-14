@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=novikovstorageacc;AccountKey=WDIFq5TH2Mn5PApK0bWyL9yHTT28UDpL6alvuiTYQ0hBiZu/ZIYVzoOsF99JNp7tlJYkSBC3nGTZ+ASt88a82Q==;EndpointSuffix=core.windows.net",
+      "dynamicId": null
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureWebJobsStorage"
+    }
+  }
+}

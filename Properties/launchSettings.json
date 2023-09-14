@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocxStorageUpdated": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 11000"
+    }
+  }
+}
